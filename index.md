@@ -1,1 +1,1 @@
-We love programming.
+We love programming. And Diet Coke.
