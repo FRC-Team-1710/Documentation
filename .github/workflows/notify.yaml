@@ -1,0 +1,19 @@
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger webhook on push to main
+        run: |
+          curl -X POST "${{ secrets.WEBHOOK_URL }}" \
+            -H "Content-Type: application/json" \
+            -d '{
+              "event": "push",
+              "branch": "main",
+              "commit": "${{ github.sha }}",
+              "pusher": "${{ github.actor }}"
+            }'
