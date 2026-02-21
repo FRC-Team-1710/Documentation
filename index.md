@@ -22,5 +22,3 @@ If you are new to the team or this is your first time viewing this documentation
 	- If you are opening this documentation for reference on how our team conducts programming the robot, this is the right place to start. We go over our team's makeup and standards.
 - [[Contributing]]
 	- Finally, if you want to contribute to this documentation, this is the page to start. 
-
-
