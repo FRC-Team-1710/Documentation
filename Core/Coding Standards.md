@@ -1,3 +1,12 @@
+---
+aliases:
+  - Programming Standards
+  - Standards
+tags:
+  - Core
+created: 2026-02-21
+---
+
 # Java Programming Standards
 
 In order to keep a codebase consistent and coherent, programmers must follow a set of coding standards. Within Java, the [Oracle Code Conventions](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html) are followed. Within our WPILib environment, most of these standards are already enforced, but there are conventions such as naming standards that aren’t enforced that you will need to read up on. Overall, if you aren’t sure how to format a block of code, look elsewhere in the codebase to find a similar structure to copy.
