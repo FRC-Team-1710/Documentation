@@ -19,7 +19,7 @@ Within the 2026 codebase, there are certain standards that are in place to keep 
 
 ## General Code Standards
 
-Within our codebase, there aren’t many standards to be particularly aware of, but we use two spaces as a tab.
+Within our codebase, there aren’t many standards to be particularly aware of, but we use two spaces as a tab plus most if not all of the standards from the Oracle Code Conventions.
 
 ## Hungarian Notation 
 
