@@ -18,4 +18,4 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 ## Known Issues / Quirks
 
 
-[[index|Back to index]]
+[Back to index](https://programming.team1710.com/)

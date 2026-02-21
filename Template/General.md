@@ -10,4 +10,4 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 <% tp.file.cursor() %>
 
 
-[[index|Back to index]]
+[Back to index](https://programming.team1710.com/)
