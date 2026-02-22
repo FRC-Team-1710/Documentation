@@ -56,3 +56,6 @@ description: Overview of the 2026 FRC season
 ---
 
 > Last updated: 2026-02-21
+
+
+[Back to home](https://programming.team1710.com/)

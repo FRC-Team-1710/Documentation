@@ -37,4 +37,4 @@ To protect the main branch from faulty code or unpolished code, there are pull r
 Keep in mind that this includes our Spotless integration in the CI GitHub Action, so the code must also be formatted properly for the code to build.
 
 
-[Back to index](https://programming.team1710.com/)
+[Back to home](https://programming.team1710.com/)

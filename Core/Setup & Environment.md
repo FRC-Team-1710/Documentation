@@ -10,4 +10,4 @@ created: 2026-02-21
 
 
 
-[Back to index](https://programming.team1710.com/)
+[Back to home](https://programming.team1710.com/)

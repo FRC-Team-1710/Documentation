@@ -14,4 +14,4 @@ This section covers programming standards and concepts for our team. We will cov
 - [[Subsystem Architecture]]
 
 
-[Back to index](https://programming.team1710.com/)
+[Back to home](https://programming.team1710.com/)

@@ -79,4 +79,4 @@ Deconstructing another layer of abstraction, we turn the mechanisms from the `Ro
 Under the [[Coding Standards#Main Code Directory|Main Code Directory]], the utils directory will hold files and directories related to small packages of related functions such as Shooter Math or Vector Methods.
 
 
-[Back to index](https://programming.team1710.com/)
+[Back to home](https://programming.team1710.com/)
