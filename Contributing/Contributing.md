@@ -28,9 +28,19 @@ For some context, this guide is built using a mix of [Quartz](https://quartz.jzh
  5. Paste in this command: `git clone https://github.com/FRC-Team-1710/Documentation.git`
  6. Open Obsidian and open the folder created by git as a vault
  7. Install Obsidian Plugins (**Make sure to enable after install**)
-	1. Git
+	1. Git 
 	2. Linter
 	3. Templater
+>[!warning]- Git not working?
+>You might get the error along the lines of `git directory doesn't exist`
+>If this occurs, follow these steps:
+>	1. Press Ctrl + P  
+>	2. Type out: `Git: Clone an existing repo`
+>	3. Paste this link: `https://github.com/FRC-Team-1710/Documentation`
+>	4. Name the folder *(e.g. 1710Docs)*
+>	5. Leave empty for a full clone
+>	6. Restart obsidian
+>
 8. Template setup
 	1. Go `Settings > Templates` and set the template folder to "Template"
 	2. Go `Settings > Templater` and set the template folder to "Template"
@@ -42,3 +52,5 @@ Setup done!
 ## How to contribute?
 
 To contribute, make sure that you have a clear goal in mind with the CTO's permission and feedback. After that, just like when you program, always fetch before you start working using the Git plugin (`Ctrl + P` to `Git: fetch`). No branches need to be made since it is documentation and not code that will impact our team's performance (hopefully), so feel free to commit and push directly to main.
+
+
