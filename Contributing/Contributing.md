@@ -6,7 +6,7 @@ tags:
   - General
   - meta
   - guide
-editors: Collin Arthur
+editors: Collin Arthur, Gavin Bigham
 title: Contributing
 ---
 # How to Contribute
