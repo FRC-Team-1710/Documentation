@@ -22,28 +22,25 @@ description: Overview of the 2026 FRC season
 ## Subsystems
 
 <!-- Link to each subsystem doc for this season -->
-- [[]]
-- [[]]
+- Intake
+- Feeder
+- Indexer
+- Shooter
 
 ## Key Design Decisions
 
 <!-- Link to or summarize the major technical choices made this season and why -->
 
-## Software Stack
-
-| Tool / Library | Version | Purpose |
-|---|---|---|
-| WPILib | | Core robot framework |
-| | | |
+# [[2026 Codebase]]
 
 ## Timeline
 
-| Milestone | Date |
-|---|---|
-| Kickoff | |
-| Bag Day / Lockout | |
-| First Competition | |
-| Championship | |
+| Milestone         | Date |
+| ----------------- | ---- |
+| Kickoff           |      |
+| Bag Day / Lockout |      |
+| First Competition |      |
+| Championship      |      |
 
 ## Results
 

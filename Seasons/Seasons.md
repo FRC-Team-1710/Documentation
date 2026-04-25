@@ -9,5 +9,7 @@ created: 2026-02-21
 
 This is an archive of the Team 1710 codebases. Each will contain the documentation also attached to the years for reference. 
 
+# 2026 Season
+[[REBUILT Summary]]
 
 [Back to home](https://programming.team1710.com/)
