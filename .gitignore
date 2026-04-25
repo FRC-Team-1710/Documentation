@@ -1,5 +1,7 @@
 # to exclude Obsidian's settings (including plugin and hotkey configurations)
-.obsidian/
+.obsidian/*
+!.obsidian/snippets/
+!.obsidian/appearance.json
 
 # to only exclude plugin configuration. Might be useful to prevent some plugin from exposing sensitive data
 .obsidian/plugins
